@@ -1,6 +1,10 @@
 Image to pdf converter
 Pdf merger
 
+install following 2 python libraries using cmd/terminal
+pip install pillow
+pip install pypdf2
+
 1. Don't delete 2 folders ("input_images" and "pdf_files") attached
 2. put your image files in "input_images"
 3. run "image_to_pdf_convertor.py" first to convert images to pdf
