@@ -1,7 +1,7 @@
 Image to pdf converter
 Pdf merger
 
-install following 2 python libraries using cmd/terminal
+Run following commands to install python libraries using cmd/terminal
 pip install pillow
 pip install pypdf2
 
